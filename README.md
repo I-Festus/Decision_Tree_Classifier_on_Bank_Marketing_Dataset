@@ -38,5 +38,39 @@ The dataset contains 17 columns and 4,521 rows, representing customer informatio
    - Visualized age distribution, marital status, and job roles in relation to subscription outcomes.
 
 ## Insights
+![image](https://github.com/user-attachments/assets/032f9ec3-ea2b-40d6-a678-739141894ad9)
 
-   
+- The majority of customers fall within the 30 to 40 age range.
+- There is a sharp decline in the number of customers beyond 50 years of age.
+- A smaller proportion of customers are below 30 years or above 60 years.
+- The distribution shows a slight right skew, indicating younger customers are more common than older ones.
+- The Kernel Density Estimation (KDE) curve suggests a clear peak around 30–35 years.
+
+
+![image](https://github.com/user-attachments/assets/7c0ecc2a-105c-4752-b7bf-c6189e829081)
+
+- Married customers form the largest group but have a lower proportion of deposits compared to their total count.
+- Single customers show a relatively higher percentage of deposits compared to married customers.
+- Divorced customers represent the smallest group, with a low proportion of deposits.
+- Overall, single customers seem more likely to subscribe to deposits than other marital status groups.
+This analysis suggests that marital status plays a role in deposit subscription trends and could guide targeted strategies.
+
+
+![image](https://github.com/user-attachments/assets/8db4c9c5-5287-4b60-b490-f9eb3ebe772b)
+
+- Management and blue-collar jobs are the most common job categories in the dataset, but they have relatively low deposit subscription rates.
+- Technicians and services also have a significant presence but exhibit a low proportion of deposits.
+- Students and retired individuals show a higher percentage of deposits despite their smaller group sizes.
+- Housemaids, entrepreneurs, and unemployed individuals have the lowest counts, with minimal deposit subscriptions.
+- The "unknown" category has negligible representation in both deposits and overall count.
+This analysis highlights that job type influences the likelihood of deposit subscriptions, with retired individuals and students showing promising potential for targeting.
+
+
+
+
+
+
+
+
+
+
