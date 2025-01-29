@@ -66,11 +66,50 @@ This analysis suggests that marital status plays a role in deposit subscription 
 This analysis highlights that job type influences the likelihood of deposit subscriptions, with retired individuals and students showing promising potential for targeting.
 
 
+![image](https://github.com/user-attachments/assets/e1df1897-801f-47d7-9912-4a62951c64c3)
+
+- Customers with secondary education form the largest group but have a low proportion of deposits.
+- Tertiary-educated customers have a higher deposit subscription rate compared to primary and secondary groups.
+- Primary education group is the smallest among known education levels, with fewer deposits.
+- Unknown education category has very few data points, making it difficult to derive meaningful insights.
+- Higher education levels (tertiary) seem to correlate with a greater likelihood of deposit subscriptions.
+This suggests that education level may influence financial decisions, with higher-educated individuals more likely to invest in deposits.
 
 
+![image](https://github.com/user-attachments/assets/37a42409-a697-4b7f-add2-76598db837fe)
 
 
+- More customers have housing loans compared to those without.
+- Deposit subscription is lower across both groups, but slightly higher among those without housing loans.
+- Customers without housing loans seem more likely to subscribe to a deposit than those with housing loans.
+- Financial commitments like housing loans may influence a customer’s ability or willingness to invest in deposits.
+This suggests that customers with existing financial obligations may be less inclined to commit to additional financial products.
 
+## Model
+- Split the dataset into training and testing set (80:20 split)
+- Built a decision tree classifier using sklearn
 
+## Model Evaluation
+- The accuracy of 90% on the test set.
+- Generated a classification report with precision, recall and F1-score
+- Visualized the decision tree structure for better interpretability
 
+## Confusion Matrix
+- Predicted	   No	  Yes
+- No	         785  22
+- Yes	         63	  35
 
+## Metrics
+- Precision: 77%
+- Recall: 66%
+- Weighted Average F1-score: 89%
+
+## Results
+The model provides a strong foundation for customer prediction analysis, aiding in better targeting and decision-making processes. Let's continue refining and exploring
+
+## Conclusion:
+This model provides a strong baseline for predicting customer behavior, offering insights that can enhance marketing strategies. However, improvements in handling class imbalance and refining model complexity can further optimize predictions.
+
+# Contact
+- Linkedln: http://www.linkedin.com/in/festus-ijabani-159585293
+- Email: ijabanifestus01@gmail.com
