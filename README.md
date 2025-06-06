@@ -1,4 +1,4 @@
-# Predicting Customer Purchase Behavior Using Decision Trees in Python with the Bank Marketing Dataset for Smarter Marketing Decisions
+### Predicting Customer Purchase Behavior Using Decision Trees in Python with the Bank Marketing Dataset for Smarter Marketing Decisions
 
 ![image](https://github.com/user-attachments/assets/abcf4a73-0273-4f8d-8f38-cd08c1d81b5e)
 
