@@ -116,7 +116,7 @@ The model provides a strong foundation for customer prediction analysis, aiding 
 ## Conclusion:
 This model provides a strong baseline for predicting customer behavior, offering insights that can enhance marketing strategies. However, improvements in handling class imbalance and refining model complexity can further optimize predictions.
 
-#Thank you
+# Thank you
 
 For more information, you can contact me
 
