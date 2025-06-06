@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/abcf4a73-0273-4f8d-8f38-cd08c1d81b5e)
 
-### Disclaimer⚠️: All datasets and reports do not contain real proprietary, confidential, or sensitive information from any company, institution, or individual. All info are dummy and design to demonstrate my capabilities of using Python to build Decision Trees
+Disclaimer⚠️: All datasets and reports do not contain real proprietary, confidential, or sensitive information from any company, institution, or individual. All info are dummy and design to demonstrate my capabilities of using Python to build Decision Trees
 
 ## Decision Tree Classifier on Bank Marketing Dataset  
 This repository contains a Python implementation of a decision tree classifier to predict whether a customer will purchase a product or service based on demographic and behavioral data. The project uses the Bank Marketing dataset from the UCI Machine Learning Repository.
