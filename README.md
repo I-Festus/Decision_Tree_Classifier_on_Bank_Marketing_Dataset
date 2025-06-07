@@ -3,7 +3,7 @@
 
 ![image](https://github.com/user-attachments/assets/abcf4a73-0273-4f8d-8f38-cd08c1d81b5e)
 
-Disclaimer⚠️: All datasets and reports are based on dummy data and do not include any real or sensitive information. They are created only to demonstrate my capabilities in building Decision Trees with Python.
+*Disclaimer⚠️: All datasets and reports are based on dummy data and do not include any real or sensitive information. They are created only to demonstrate my capabilities in building Decision Trees with Python.*
 
 ## Project Overview
 This project applies machine learning techniques to the Bank Marketing Dataset to predict whether a customer will subscribe to a product or service based on their demographic and behavioral data. The dataset contains real-world marketing campaign data, making it ideal for exploring classification algorithms like Decision Trees.
